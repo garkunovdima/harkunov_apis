@@ -1,0 +1,36 @@
+header {
+    color: gainsboro;
+    background: -webkit-linear-gradient(45deg, rgb(70, 33, 26), rgb(186, 85, 54), rgb(164, 56, 32));
+    background: -moz-linear-gradient(45deg, rgb(70, 33, 26), rgb(186, 85, 54), rgb(164, 56, 32));
+    background: linear-gradient(45deg, rgb(70, 33, 26), rgb(186, 85, 54), rgb(164, 56, 32));
+    -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+
+section {
+    -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+
+body {
+    background: gainsboro;
+}
+
+.name_card {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.my_card {
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: rgba(59, 130, 246, 1);
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+}
+
+a {
+    color: whitesmoke !important;
+}
