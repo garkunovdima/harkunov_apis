@@ -1,4 +1,4 @@
-const DEFAULT_USER_AVATAR = 'https://cdn-icons.flaticon.com/png/512/3177/premium/3177440.png?token=exp=1637134091~hmac=307d76ba5310903253bb35408a887f13';
+const DEFAULT_USER_AVATAR = 'https://w7.pngwing.com/pngs/867/694/png-transparent-user-profile-default-computer-icons-network-video-recorder-avatar-cartoon-maker-blue-text-logo.png';
 
 console.log("https://jsonplaceholder.typicode.com/users");
 console.log("https://jsonplaceholder.typicode.com/todos");
