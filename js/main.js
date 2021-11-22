@@ -25,7 +25,7 @@ function create_div(user) {
         id: `card${counter}`
     }).appendTo("#my_data");
 
-    $(`.card${counter}`).append(`<div class="card${counter}_img col-2"><img class="img-fluid" src="${DEFAULT_USER_AVATAR}"/></div>`);
+    $(`.card${counter}`).append(`<div class="card${counter}_img col-2"><div class="d-flex"><img class="img-fluid" src="${DEFAULT_USER_AVATAR}"/></div></div>`);
     $(`.card${counter}`).append(`<div class="card${counter}_data col-8"></div>`);
     $(`.card${counter}`).append(`<div class="card${counter}_buts col-2"></div>`);
 
